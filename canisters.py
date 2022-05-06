@@ -83,4 +83,4 @@ def solving_problem(first, second, target):
 
 
 if __name__ == '__main__':
-    print(solving_problem(59, 13, 5))
+    print(solving_problem(59, 12, 5))
